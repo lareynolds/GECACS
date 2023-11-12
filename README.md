@@ -3,7 +3,7 @@ FSWG Guild Equipment Check-out and Control System
 This project is being developed for the Fredericksburg Spinners and Weavers Guild.
 
 ## Issue
-The guild librarian needs a way to track the guild's equipment. The guild has equipment stored at the studio and different member's homes. The librarian needs a way to track the peice of equipment when it is checked-out/in and to whom.
+The guild librarian needs a way to track the guild's equipment. The guild has equipment stored at the studio and different member's homes. The librarian needs a way to track the piece of equipment when it is checked-out/in and to whom.
 
 ## Initial Thoughts
 * Need a SQL database for the equipment, storage locations, members and check out/check in transactions
