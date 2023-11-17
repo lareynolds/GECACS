@@ -10,7 +10,7 @@ The guild librarian needs a way to track the guild's equipment. The guild has eq
 * A web interface for the members to check-out/in equipment and for the librarian to add or update inventory
 
 ## Implementation
-* SQL Database
+* Non-SQL Database
 * Python
 * Wordpress
 
