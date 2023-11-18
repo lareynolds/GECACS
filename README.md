@@ -1,5 +1,5 @@
 # GECACS
-FSWG Guild Equipment Check-out and Control System
+## FSWG Guild Equipment Check-out and Control System (GECACS)
 This project is being developed for the Fredericksburg Spinners and Weavers Guild.
 
 ## Issue
