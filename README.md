@@ -21,6 +21,7 @@ Use Chat GPT to guide me thought the development process. Document the developme
 * [Step 1: Define Requirements](https://lesley-reynolds.atlassian.net/l/cp/1WiXg791)
      * [Project Tracking | Step 1: Define Requirements](https://lesley-reynolds.atlassian.net/l/cp/1Vx1E33z)
      * [Communications Plan](https://lesley-reynolds.atlassian.net/l/cp/719rga2q)
+* [Story Point Table](https://lesley-reynolds.atlassian.net/l/cp/MDAN5w6F)
 
 # My Ordinary Journey Blog Posts
 * [Embarking on the Web Development Journey: GECACS – Weaving a Digital Tapestry for Guild Equipment Management](https://myordinaryjourney.com/embarking-on-the-web-development-journey-gecacs-weaving-a-digital-tapestry-for-guild-equipment-management/)
